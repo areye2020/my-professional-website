@@ -1,0 +1,22 @@
+my-multi-page-website/
+|-- src/
+|   |-- components/
+|   |   |-- Home/
+|   |   |   |-- Home.js
+|   |   |   |-- Home.css
+|   |   |-- Journey/
+|   |   |   |-- Journey.js
+|   |   |   |-- Journey.css
+|   |   |-- Resume/
+|   |   |   |-- Resume.js
+|   |   |   |-- Resume.css
+|   |   |-- Contact/
+|   |   |   |-- Contact.js
+|   |   |   |-- Contact.css
+|   |   |-- NavBar/        // New directory for the NavBar component
+|   |   |   |-- NavBar.js // Navigation Bar Component
+|   |   |   |-- NavBar.css // Navigation Bar CSS
+|   |-- App.js
+|-- public/
+|-- package.json
+|-- README.md
